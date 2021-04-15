@@ -4,7 +4,7 @@ Final Project
 
 # Exploratory Data Analysis of FIFA21 using Voila deployed on Heroku
 
-The dashboard site is: https://calm-cove-58094.herokuapp.com/
+The dashboard site is: https://fifa-struong.herokuapp.com/
 
 This project contains several data analysis about football player and team based on FIFA21 dataset.The contents of this project are:
 
